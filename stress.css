@@ -1,0 +1,44 @@
+body {
+	background-color: #DAF7A6;
+	margin-top: 50px;
+
+}
+
+h1 {
+	margin-left: 100px;
+	background-color: #008CBA;
+	border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+}
+
+table {
+	margin-left: 100px;
+	line-height: 3em;
+
+}
+
+th {
+    border-radius: 25px;
+    padding-left: 25px;
+}
+
+
+input#button {
+    margin-left: 100px;
+
+}
+
+textarea {
+    padding-left: 25px;
+	margin-left: 100px;
+	margin-top: 10px;
+    border-radius: 25px;
+    border-color: black;
+}
+
